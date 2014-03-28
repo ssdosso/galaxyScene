@@ -7,7 +7,7 @@
  */
 
 (function($, undefined ) {
-    $.widget( "Mono.Mover", {
+    $.widget( "Cho.Mover", {
 
         controller : null,
         durationTime: null,
